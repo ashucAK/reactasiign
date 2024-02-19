@@ -1,0 +1,24 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .home-container h1 {
+    font-size: 24px;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .home-container p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .home-container:hover h1 {
+    color: #555;
+  }
+  
+  .home-container:hover p {
+    color: #777;
+  }
+  
